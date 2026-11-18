@@ -4,7 +4,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![NLTK](https://img.shields.io/badge/NLTK-NLP-306998.svg)](https://www.nltk.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](#)
 
 A high-precision Natural Language Processing (NLP) system designed to detect and filter unsolicited spam, promotional fraud, and phishing messages across SMS and Email communication channels.
@@ -196,4 +195,4 @@ Contributions are welcomed! Feel free to report issues, suggest new features, or
 
 ## 📄 License
 
-This project is open-source and licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
